@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71cabb97-65d6-4eb4-83f8-b9f7397ef587" name="Default" comment="" />
+    <list default="true" id="71cabb97-65d6-4eb4-83f8-b9f7397ef587" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Programming\python\python-zip-dir\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="D:\Programming\python\python-zip-dir\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Programming\python\python-zip-dir\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Programming\python\python-zip-dir\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Programming\python\python-zip-dir\.idea\python-zip-dir.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Programming\python\python-zip-dir\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Programming\python\python-zip-dir\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Programming\python\python-zip-dir\.idea\workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    </list>
     <ignored path="python-zip-dir.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -25,11 +35,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="zip_dir.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="zip_dir.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python-zip-dir/zip_dir.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.664966" vertical-offset="0" max-vertical-offset="588">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
               <caret line="23" column="80" selection-start-line="23" selection-start-column="80" selection-end-line="23" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.82653064" vertical-offset="1010" max-vertical-offset="1598">
+              <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -44,6 +64,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/python-zip-dir/zip_dir.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -191,8 +212,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/python-zip-dir/zip_dir.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.664966" vertical-offset="0" max-vertical-offset="588">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
           <caret line="23" column="80" selection-start-line="23" selection-start-column="80" selection-end-line="23" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82653064" vertical-offset="1010" max-vertical-offset="1598">
+          <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
           <folding />
         </state>
       </provider>
