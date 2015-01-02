@@ -48,6 +48,11 @@ A simple function to create zipped folder.
             b_file.txt
 ```
 
+## Installation ##
+
+```bash
+pip install -e git+https://github.com/illagrenan/python-zip-dir#egg=zip_dir --upgrade
+```
 
 ## License ##
 
