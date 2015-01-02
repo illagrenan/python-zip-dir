@@ -5,10 +5,47 @@ A simple function to create zipped folder.
 
 ## Usage ##
 
+```
+└───some_folder
+    │   test_file.txt
+    │
+    ├───a
+    │       aaa_file.txt
+    │       aa_file.txt
+    │       a_file.txt
+    │
+    └───b
+            b_file.txt
+```
 
 ```python
 >>> from zip_dir.utils import create_zip_archive
->>> create_zip_archive(base_dir_path="some_directory", archive_name="my_archive.zip")
+>>> create_zip_archive(base_dir_path="some_folder", archive_name="my_archive.zip")
+```
+
+
+```
+│   my_archive.zip
+│   │   test_file.txt
+│   │
+│   ├───a
+│   │       aaa_file.txt
+│   │       aa_file.txt
+│   │       a_file.txt
+│   │
+│   └───b
+│           b_file.txt
+│
+└───some_folder
+    │   test_file.txt
+    │
+    ├───a
+    │       aaa_file.txt
+    │       aa_file.txt
+    │       a_file.txt
+    │
+    └───b
+            b_file.txt
 ```
 
 
